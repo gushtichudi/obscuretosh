@@ -30,9 +30,9 @@ Where:
 
 **along with comment,**
 
-| Model Name    | CPU Name | macOS Version | Comments                                                       |
-| ------------- | -------- | ------------- | -------------------------------------------------------------- |
-| NT370R5E-A44S | i3-3120M | 11, Big Sur   | Audio, Brightness, Camera, Ethernet and Trackpad does not work |
+| Model Name    | CPU Name | macOS Version | Comments                                      |
+| ------------- | -------- | ------------- | ----------------------------------------------|
+| NT370R5E-A44S | i3-3120M | 11, Big Sur   | Brightness, Camera and Ethernet does not work |
 
 ## Contributing
 
